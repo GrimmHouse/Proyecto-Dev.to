@@ -1,6 +1,10 @@
-Body{
-    background-color: aqua;
-    h1{
-        color: red;
-    }
+@import 'main';
+@import 'navbar';
+
+
+*{
+    margin: 0;
+    padding: 0;
+
+
 }
